@@ -7,9 +7,6 @@
     <list default="true" id="8aa4d97d-361a-48a0-b46d-890d83e10620" name="Changes" comment="add new files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ConversionDeTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversionDeTipos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitivosCaracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitivosCaracteres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemasNumericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemasNumericos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,5 +130,8 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloWorld$ConversionDeTipos.ic" NAME="ConversionDeTipos Coverage Results" MODIFIED="1676843511016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
