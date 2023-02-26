@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aa4d97d-361a-48a0-b46d-890d83e10620" name="Changes" comment="add new files">
+      <change afterPath="$PROJECT_DIR$/src/EjemploString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringConcatenacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringExtensionArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringInmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodosArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringTestRendimientoConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringValidar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConversionDeTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversionDeTipos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
