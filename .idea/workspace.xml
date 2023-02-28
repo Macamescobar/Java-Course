@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aa4d97d-361a-48a0-b46d-890d83e10620" name="Changes" comment="add new files">
-      <change afterPath="$PROJECT_DIR$/src/OperadorAritmetico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresAritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresIncrementales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresUnarios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ConversionDeTipos">
     <configuration name="ConversionDeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConversionDeTipos" />
       <module name="HelloWorld" />
